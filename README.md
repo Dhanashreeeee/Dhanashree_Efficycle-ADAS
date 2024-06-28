@@ -1,6 +1,6 @@
 # Efficycle-Effi-Que ADAS Project
 Overview
-This project focuses on an electric vehicle equipped with various automation systems to enhance safety and functionality.
+ This project focuses on an electric vehicle equipped with various automation systems to enhance safety and functionality.
 
 Features
 1. Speed Alert System
